@@ -1,0 +1,66 @@
+body {
+    background-color: #8000DE;
+}
+
+#hdr {
+    background-color: #571C83;
+    height: 80px;
+    border-radius: 15px;
+    margin: 10px auto 10px auto;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+}
+
+#main1 {
+    float: left;
+    width: 80%;
+}
+
+#kontakt {
+    float: left;
+    width: 18%;
+    text-align: right;
+    padding: 0,5em;
+}
+
+#produkty {
+    background-color: #571C83;
+    width: 30%;
+    float: left;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.prod {
+    background-color: #3F145F;
+    width: 80%;
+    text-align: center;
+    height: 40px;
+    padding-top: 20px;
+    margin: 10%;
+    border-radius: 5px;
+}
+
+.opis {
+    background-color: #3F145F;
+    padding: 15px;
+    width: 80%;
+    margin: 10%;
+    float: left;
+    border-radius: 10px;
+}
+
+#main2 {
+    background-color: #571C83;
+    width: 50%;
+    float: left;
+    margin: auto 10px auto 10px;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+}
+
+* {
+    color: #8000DE;
+}

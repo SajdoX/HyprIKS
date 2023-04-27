@@ -1,0 +1,84 @@
+body {
+    background-color: #8000DE;
+}
+
+#hdr {
+    background-color: #571C83;
+    height: 80px;
+    border-radius: 15px;
+    margin: 10px auto 10px auto;
+    padding: 10px 10px 10px 10px;
+    font-size: 50px;
+}
+
+#main1 {
+    float: left;
+    width: 80%;
+}
+
+#kontakt {
+    float: left;
+    width: 18%;
+    text-align: right;
+    padding: 0,5em;
+}
+
+#produkty {
+    background-color: #571C83;
+    width: 30%;
+    float: left;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+#main2 {
+    background-color: #571C83;
+    width: 65%;
+    float: left;
+    border-radius: 15px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    height: 800px;
+}
+
+#title {
+    background-color: #3F145F;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.kontakt2 {
+    background-color: #3F145F;
+    margin: 5px;
+    font-size: large;
+}
+
+#inst {
+    background-color: #3F145F;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+    float: right;
+}
+
+#fb {
+    background-color: #3F145F;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+    float: right;
+}
+
+#twtch {
+    background-color: #3F145F;
+    height: 35px;
+    width: 35px;
+    margin: 5px;
+    float: right;
+}
+
+* {
+    color: rgb(255, 0, 212);
+}
